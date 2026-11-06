@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.duckdb
+*.pyc
+.git
+.gitignore
+README.md
